@@ -50,7 +50,7 @@ Le mie competenze includono anche:
 🔄 Sistemi di backup e disaster recovery
 
 
-
+</br>
 Nel corso della mia carriera, ho lavorato per diverse aziende, sviluppando un 𝑎𝑝𝑝𝑟𝑜𝑐𝑐𝑖𝑜 𝑝𝑟𝑎𝑡𝑖𝑐𝑜 𝑒 𝑜𝑟𝑖𝑒𝑛𝑡𝑎𝑡𝑜 𝑎𝑙𝑙𝑎 𝑟𝑖𝑠𝑜𝑙𝑢𝑧𝑖𝑜𝑛𝑒 𝑑𝑒𝑖 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑖. Questa esperienza mi ha permesso di acquisire una visione completa della sicurezza informatica, combinando 𝑐𝑜𝑛𝑜𝑠𝑐𝑒𝑛𝑧𝑒 𝑡𝑒𝑐𝑛𝑖𝑐ℎ𝑒 ad 𝑎𝑏𝑖𝑙𝑖𝑡𝑎̀ 𝑑𝑖 𝑔𝑒𝑠𝑡𝑖𝑜𝑛𝑒.
 
 </br>
