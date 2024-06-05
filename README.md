@@ -13,7 +13,7 @@
 </br>
 
 <h2> 
-  👨‍💻: SERVIZI 
+  🔭 SERVIZI 
 </h2> 
 </br>
 
@@ -31,7 +31,7 @@ Sono un consulente freelance e mi occupo di:
 </br>
 
 <h2> 
-  :man_technologist: COMPETENZE 
+  👨‍💻 COMPETENZE 
 </h2> 
 </br>
 
@@ -57,7 +57,7 @@ Nel corso della mia carriera, ho lavorato per diverse aziende, sviluppando un �
 </br>
 
 <h2> 
-  :mailbox: CONTATTI 
+  📫 CONTATTI 
 </h2> 
 </br>
 
