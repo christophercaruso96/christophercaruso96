@@ -77,7 +77,7 @@ Se hai bisogno di consulenze o vuoi collaborare, visita il mio sito 𝐜𝐚𝐫
 </h2> 
 </br>
 
-N.B. : I repo pubblici visibili dal mio profilo Github, afferiscono al percorso di formazione di 480 ore sostenuto in Epicode. Ho pubblicato solo i repo di rilievo per garantire una rapida e facile consultazione!
+I repo pubblici visibili dal mio profilo Github, afferiscono al percorso di formazione di 480 ore sostenuto in Epicode. Ho pubblicato solo i repo di rilievo per garantire una rapida e facile consultazione!
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZtNzN3bjZpaXQxcmMzMmIyYW52dzZ0cXduMm0xejNlN3ZmaGZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" width="100"/>
