@@ -19,13 +19,11 @@
 
 Sono un consulente freelance e mi occupo di:
 
-🕵️‍♂️ OSINT
-
+📚 Cybersecurity Awareness
 🛡️ Vulnerability Assessment
-
 🔓 Penetration Test
-
-🐛 Analisi Malware
+🕵️‍♂️ OSINT
+⚠️ Incident Response
 
 </br>
 </br>
